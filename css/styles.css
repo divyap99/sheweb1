@@ -297,7 +297,7 @@ header nav ul li{
 #contact{
     width:100%;
     background:#000 url("../images/contact1.jpg") no-repeat fixed bottom;
-    background-size:100%;
+    background-size:auto;
     position:relative;
     padding: 0px;
     color:#fff;
